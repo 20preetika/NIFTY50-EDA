@@ -19,6 +19,6 @@ My first data analytics project exploring one year of historical Nifty 50 data u
 - `Nifty50_EDA.ipynb`: Jupyter notebook
 - `Nifty50_EDA.pdf`: PDF summary
 
-## ✨ Author
+## ✨ Made By-
 Preetika
 
